@@ -1,0 +1,243 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style: none;
+}
+
+.sec-izq {
+  display: flex;
+  background-color: #e8ebe4;
+}
+
+.separacion-contactos-img {
+  display: flex;
+  background-color: #e8ebe4;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.contactos {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 300px;
+
+  min-height: auto;
+}
+
+/* Seccion de Maria */
+
+.maria li {
+  display: flex;
+  flex-direction: ;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.maria img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+.nombre-status {
+  margin-right: 40px;
+}
+
+.iconos {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 40%;
+}
+.iconos img {
+  display: flex;
+  width: 20px;
+  height: 30px;
+  border-radius: 0%;
+}
+
+/* button section */
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 298px;
+  background-color: white;
+}
+
+.button li {
+  border: none;
+}
+
+/* Color personalizado del boton */
+.btn-custom {
+  background-color: #a491d2 !important;
+  color: white !important;
+}
+
+/* .list-group-item button {
+  padding: 0rem;
+} */
+
+/* Seccion Juanita */
+
+.juanita li {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.juanita img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Seccion Alberto */
+
+.alberto li {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.alberto img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Seccion Ignacio */
+
+.ignacio li {
+  display: flex;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.ignacio img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  margin-right: 0px;
+}
+
+/* Seccion Cristian */
+
+.cristian li {
+  display: flex;
+  flex-direction: ;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.cristian img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Seccion Maria Jose */
+
+.maria-jose li {
+  display: flex;
+  flex-direction: ;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.maria-jose img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Seccion Gonzalo */
+
+.gonzalo li {
+  display: flex;
+  flex-direction: ;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.gonzalo img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Seccion Juan Pablo */
+
+.juanp li {
+  display: flex;
+  flex-direction: ;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.juanp img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Seccion Magdalena */
+
+.magdalena li {
+  display: flex;
+  flex-direction: ;
+  justify-content: space-around;
+  width: 300px;
+}
+
+.magdalena img {
+  display: flex;
+  align-items: center;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+/* Seccion de la derecha */
+
+.img-ppal img {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+}
+
+.img-ppal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+div h5 {
+  font-family: "Roboto", serif;
+  font-weight: 300;
+  font-style: normal;
+}
