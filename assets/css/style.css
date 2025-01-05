@@ -32,7 +32,7 @@
 
 .maria li {
   display: flex;
-  flex-direction: ;
+
   justify-content: space-around;
   width: 300px;
 }
@@ -138,7 +138,6 @@
 
 .cristian li {
   display: flex;
-  flex-direction: ;
   justify-content: space-around;
   width: 300px;
 }
@@ -155,7 +154,7 @@
 
 .maria-jose li {
   display: flex;
-  flex-direction: ;
+
   justify-content: space-around;
   width: 300px;
 }
@@ -172,7 +171,7 @@
 
 .gonzalo li {
   display: flex;
-  flex-direction: ;
+
   justify-content: space-around;
   width: 300px;
 }
@@ -189,7 +188,7 @@
 
 .juanp li {
   display: flex;
-  flex-direction: ;
+
   justify-content: space-around;
   width: 300px;
 }
@@ -206,7 +205,7 @@
 
 .magdalena li {
   display: flex;
-  flex-direction: ;
+
   justify-content: space-around;
   width: 300px;
 }
